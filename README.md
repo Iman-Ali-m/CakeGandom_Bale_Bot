@@ -35,6 +35,3 @@ Built with **.NET 10**, **ASP.NET Core**, **Entity Framework Core 10**, and **SQ
 
 > **Note:** SQL Server is used for the real application. SQLite is used **only inside the test project** to keep tests fast and independent from any external SQL Server instance.
 
----
-
-## Project Structure
